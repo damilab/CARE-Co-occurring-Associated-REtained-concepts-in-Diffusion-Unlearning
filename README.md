@@ -12,6 +12,11 @@
   <img src="assets/intro.png" width="70%">
 </p>
 
+<br/>
+
+## Updates
+  - **02-10-2026**: Code released.
+
 ## 🔍 Overview of ReCARE
 
 <p align="center">
