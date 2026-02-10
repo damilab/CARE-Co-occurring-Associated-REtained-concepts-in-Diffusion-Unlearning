@@ -90,7 +90,10 @@ python metrics/care_eval.py \
   --save_images
 ```
 Additional evaluation scripts (ASR, COCO-based FID, CLIP score) are available in ```metrics/```. \
-For style-based evaluation, download the pretrained style classifier checkpoint and place it at: ```metrics/style_classifier/checkpoint-2800```
+For style-based evaluation, we use the pretrained style classifier released by
+[Diffusion-MU-Attack](https://github.com/OPTML-Group/Diffusion-MU-Attack).
+Please download the checkpoint and place it at:
+`metrics/style_classifier/checkpoint-2800`
 
 
 ## 💾 Pretrained Models
