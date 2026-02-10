@@ -4,8 +4,6 @@
 <h3 align="center"><strong>[ICLR 2026 Accepted]</strong></h3>
 </p>
 
-**Paper:**   https://openreview.net/forum?id=Ryc7jKP6H9&noteId=LjNdgM6vZg
-
 <p align="center">
   <a href="https://openreview.net/forum?id=Ryc7jKP6H9&noteId=LjNdgM6vZg">📄 Paper (OpenReview)</a>
 </p>
