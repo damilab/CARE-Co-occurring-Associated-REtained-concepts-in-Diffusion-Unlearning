@@ -13,8 +13,8 @@ ReCARE addresses this issue by **automatically constructing a CARE-set from targ
 ## Instructions for Code Usage
 ### 1. Environment Setup
 ```bash
-git clone https://github.com/damilab/CARE-Co-occurring-Associated-REtained-concepts-in-Diffusion-Unlearning.git
-cd CARE-Co-occurring-Associated-REtained-concepts-in-Diffusion-Unlearning
+git clone https://github.com/damilab/CARE.git
+cd CARE
 
 # Linux (recommended)
 conda env create -f environment.yaml
